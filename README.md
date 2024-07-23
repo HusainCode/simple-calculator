@@ -9,19 +9,6 @@ This repository contains a very simple calculator written in Go. The calculator 
 - Multiplication
 - Division
 
-## How to Use
-
-1. **Clone the Repository:**
-
-   ```sh
-   git clone https://github.com/HusainCode/simple-calculator.git
-   cd simple-calculator
-
-## Run the Calculator:
-
-```sh
-go run main.go
-
 ## Follow the Prompts:
 
  Enter the first number.
